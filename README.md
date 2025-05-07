@@ -64,6 +64,6 @@ http://localhost/sms_project/index.php
 MIT License 
 
 ## 🙋‍♂️ Authors
-- Gautam Girish [@NomadWr3nch](https://github.com/NomadWr3nch)
 - Akshaj S [@akshajsun](https://github.com/akshajsun)
+- Gautam Girish [@NomadWr3nch](https://github.com/NomadWr3nch)
 
